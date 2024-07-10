@@ -82,7 +82,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 For any inquiries or questions, feel free to reach out:
 
-- Email: your-msvarshan07@gmail.com
+- Email: msvarshan07@gmail.com
 - LinkedIn: [msvarshan](https://www.linkedin.com/in/msvarshan)
 
 ---
