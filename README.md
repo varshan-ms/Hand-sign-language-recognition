@@ -25,8 +25,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/hand-sign-recognition.git
-   cd hand-sign-recognition
+   git clone https://github.com/varshan-ms/Hand-sign-language-recognition.git
    ```
 
 2. **Create and Activate Virtual Environment (optional but recommended):**
